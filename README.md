@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates the deployment of a secure and highly available AWS infrastructure using Amazon Web Services (AWS).
+This project demonstrates the deployment of a Secure and highly available AWS infrastructure using Amazon Web Services (AWS).
 
 The architecture was designed using a custom Virtual Private Cloud (VPC) with public and private subnets. A Bastion Host was used to securely access resources inside the private subnet, while an Application Load Balancer (ALB) distributed incoming traffic to backend instances.
 
